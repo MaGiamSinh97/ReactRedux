@@ -1,0 +1,1 @@
+export const TitleSearchProductList = ["Tên Sản Phẩm", "Mã Sản Phẩm", "Giá Sản phẩm"];
