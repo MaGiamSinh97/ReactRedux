@@ -5,7 +5,7 @@
   "dependencies": {
     "@progress/kendo-ui": "^2020.1.114",
     "antd": "^3.23.4",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "kendo-ui-react": "^0.14.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
